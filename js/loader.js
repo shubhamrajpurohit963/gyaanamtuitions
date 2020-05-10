@@ -13,9 +13,9 @@ $(document).ready(function(){
 
     $('.parallax').parallax();
     $('.myreviews').carousel({
-        numVisible:4,
+        numVisible:6,
         shift:55,
-        padding:200
+        padding:40
     })
 });
 
