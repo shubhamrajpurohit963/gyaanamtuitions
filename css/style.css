@@ -1,0 +1,51 @@
+.nav-wrapper{
+    background-color: #2C3292;
+    /* background-color: yellow; */
+}
+
+#logo{
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.slider .indicators .indicator-item.active{
+    background-color: yellow;
+}
+
+.obj{
+    margin-top:35px;
+}
+.obj{
+    margin-top:35px;
+   
+}
+
+.obj{
+    margin-top:35px;
+
+}
+
+
+.parallax-container{
+    min-height: 200px;
+    height: auto;
+}
+
+
+.footer-one{
+    background: #2c3292;
+}
+
+.footer-two{
+    background: rgb(25, 29, 83);
+}
+
+
+.one{
+    background: #2c3292;
+}
+.two{
+    background: rgb(25, 29, 83);
+
+}
+
